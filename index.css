@@ -1,0 +1,37 @@
+:root {
+  --link-color: #01ff70;
+  --link-hover-color: #2ecc40;
+}
+
+@import "furtive-code";
+@import "furtive-print";
+@import "furtive-links";
+@import "furtive-typescale";
+@import "furtive-responsive-utils";
+
+html,
+body {
+  background-color: #222;
+  min-height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  color: #fafafa;
+  font-family: "Courier New";
+  line-height: 1.45;
+  margin: 6rem auto 1rem;
+  max-width: 48rem;
+}
+
+pre {
+  background-color: #333;
+}
+
+blockquote {
+  border-left: 3px solid var(--link-color);
+  padding-left: 1rem;
+}
