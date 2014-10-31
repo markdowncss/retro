@@ -1,5 +1,5 @@
 {
-  "name": "markdown-splendor",
+  "name": "markdown-retro",
   "version": "0.0.1",
   "description": "A markdown CSS theme.",
   "main": "gulpfile.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markdowncss/splendor.git"
+    "url": "https://github.com/markdowncss/retro.git"
   },
   "keywords": [
     "markdown",
     "css",
-    "splendor",
+    "retro",
     "theme"
   ],
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/markdowncss/splendor/issues"
+    "url": "https://github.com/markdowncss/retro/issues"
   },
-  "homepage": "https://github.com/markdowncss/splendor",
+  "homepage": "https://github.com/markdowncss/retro",
   "dependencies": {
     "furtive-code": "0.0.1",
     "furtive-links": "0.0.2",
